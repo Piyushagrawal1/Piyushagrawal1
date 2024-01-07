@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Agrawal</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Devlopement in MERN**
+- 🌱 I’m currently learning **Full Stack Development in MERN**
 
 - 👯 I’m looking to collaborate on **open source**
 
